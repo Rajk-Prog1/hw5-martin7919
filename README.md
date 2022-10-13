@@ -45,5 +45,5 @@ Olvassátok át [ezt](./GitHub_summary.md) a rövid összefoglalót.
 
 # IV.
 
-AZ előző két házi jó feltöltése.
+Az előző két házi jó feltöltése.
 
