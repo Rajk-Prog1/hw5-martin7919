@@ -38,12 +38,3 @@ Ennél a feladatnál már találtok egy működő megoldást az eggs fájlban. E
 
 an integer, the number of the highest floor where the egg doesn’t break
 
-
-# III. GitHub
-
-Olvassátok át [ezt](./GitHub_summary.md) a rövid összefoglalót.
-
-# IV.
-
-Az előző két házi jó feltöltése.
-
